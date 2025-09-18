@@ -4,7 +4,9 @@
 This repository contains a Python application for modeling, simulating, and visualizing the dynamic behavior of a car's quarter-suspension system. It features a graphical user interface (GUI) that allows users to compare the performance of a standard passive suspension system against an active suspension system controlled by a PID controller.
 
 The simulation is based on a state-space model of a quarter-car system, and the results are displayed through a real-time animation and comparative plots.
-![demo](./img/demo.gif)
+<p>
+  <img src="./img/demo.gif" width="300">
+</p>
 ## Features
 
 *   **Graphical User Interface (GUI)**: An intuitive interface built with CustomTkinter for easy configuration and operation.
