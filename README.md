@@ -5,7 +5,7 @@ This repository contains a Python application for modeling, simulating, and visu
 
 The simulation is based on a state-space model of a quarter-car system, and the results are displayed through a real-time animation and comparative plots.
 <p>
-  <img src="./img/demo.gif" width="300">
+  <img src="./img/demo.png" width="800">
 </p>
 ## Features
 
